@@ -1,0 +1,11 @@
+ipykernel
+openai
+langchain
+langchain-community
+neo4j
+wikipedia
+tiktoken
+langchain_experimental
+json-repair
+langchain_openai
+python-dotenv
